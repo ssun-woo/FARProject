@@ -1,0 +1,97 @@
+@charset "UTF-8";
+
+.csMenu{
+	display: flex;
+	margin-top: 80px;
+}
+
+.csMenu > div{
+	width: 20%;
+	text-align: center;
+	height: 60px;
+	line-height: 60px;
+}
+
+.commonCS{
+	background-color: pink;
+}
+
+.accommodationsCS{
+	background-color: yellow;
+}
+
+.restaurantCS{
+	background-color: skyblue;
+}
+
+.beautyCS{
+	background-color: aqua;
+}
+
+.artCS{
+	background-color: green;
+}
+
+.down_arrow{
+	width: 20px;
+	height: 20px;
+}
+
+.csBoard table{
+	border-collapse: collapse;
+	margin-bottom: 40px;
+}
+
+
+.csBoard table td{
+	border-top: 1px solid #999999;
+	border-bottom: 1px solid #999999;
+	padding: 23px 0px;
+}
+
+
+.td1{
+	width: "90%" ;
+	padding-left: 50px;
+}
+
+.answer {
+    display: none;
+    padding: 15px;
+    border-bottom: 1px solid #999999;
+ }
+ 
+ .answer.show {
+  display: table-row;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
